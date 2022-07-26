@@ -24,14 +24,14 @@ how many of the character and what character
 (If a chunk is composed only of numbers, the character is the last digit.)
 
 So if part of the recipe is
-`2* 15sp 1x 4sQ nl`
-...that tells you to show
-`**               x''''`
+`2* 15sp 1x 4sQ nl`  
+...that tells you to show  
+`**               x''''`  
 and then go to a new line.
 
 
 **Abbreviations used:**  
-`sp` = space 
+`sp` = space  
 `bS` = backSlash `\`  
 `sQ` = singleQuote `'`  
 and  
